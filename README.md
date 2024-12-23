@@ -1,2 +1,1 @@
-# tugass
-tugas pemrograman web
+# tugas
